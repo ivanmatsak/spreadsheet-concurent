@@ -1,0 +1,63 @@
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.exe.config
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.exe
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.pdb
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.Properties.Resources.resources
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.exe
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.pdb
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.Form1.resources
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Foundation.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.Composition.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Xaml.dll
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.exe.config
+C:\Users\User\source\repos\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.CopyComplete
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.exe.config
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.exe
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\PrihozhiCourseWork1.pdb
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Buffers.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Collections.Immutable.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Memory.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Numerics.Vectors.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Foundation.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Foundation.Logging.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.Composition.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.Dispatching.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.UI.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Xaml.dll
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Buffers.xml
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Collections.Immutable.xml
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Memory.xml
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Numerics.Vectors.xml
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.AssemblyReference.cache
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.exe.config
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.Form1.resources
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.Properties.Resources.resources
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.GenerateResource.cache
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.CoreCompileInputs.cache
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.csproj.CopyComplete
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.exe
+C:\Курс 4\PrihozhiCourseWork1\PrihozhiCourseWork1\PrihozhiCourseWork1\obj\Debug\PrihozhiCourseWork1.pdb
